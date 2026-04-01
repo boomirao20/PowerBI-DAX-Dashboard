@@ -22,7 +22,7 @@ It transforms raw data into **meaningful insights** through data modeling, calcu
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.jpg" width="700"/>
+  <img src="Dashboard.jpg" width="700"/>
 </p>
 
 ---
